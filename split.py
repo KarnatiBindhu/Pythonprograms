@@ -1,0 +1,5 @@
+n1,n2=input("enter 2 values").split()
+num1=int(n1)
+num2=int(n2)
+print(n1," ",n2)
+print(num1+num2)
